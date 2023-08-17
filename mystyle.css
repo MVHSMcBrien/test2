@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    border-style: dotted;
+    
+  }
+  
+  h1 {
+    font-family: "Sofia", sans-serif;
+    color: navy;
+    margin-left: 20px;
+  }
